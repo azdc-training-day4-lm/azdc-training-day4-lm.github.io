@@ -1,5 +1,5 @@
 # azdc-training-day4-lm.github.io
-Landing Page for azdc-training organization - have fun! 
+Landing Page for azdc-training organization - have fun! hehe
 
 
 This is a sample README.md where you document your newly created Coding Dreams! 🧚‍♀️ 🧚‍♂️
